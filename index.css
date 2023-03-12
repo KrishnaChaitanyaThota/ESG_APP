@@ -13,3 +13,8 @@ body{
     background-color: rgb(208, 201, 201);
     border-radius: 10px;
 }
+
+.navbar-custom {
+	background-color: rgba(171, 173, 176, 0.5);
+    width: 2000px;
+}
